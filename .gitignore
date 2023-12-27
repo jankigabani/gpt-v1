@@ -1,0 +1,11 @@
+# Ignore the training split file 
+openwebtext/train_split.txt
+
+# Ignore the validation split fille 
+openwebtext/val_split.txt
+
+# Ignore checkpoints
+.ipynb_checkpoints/*
+
+# Ingore pkl file
+model-01.pkl
